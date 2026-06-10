@@ -62,7 +62,7 @@ Ready to write new features? Use the existing codebase as a template to add:
 ### Running the App
 1. Clone this repository to your local machine (Universal command):
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone [https://github.com/WafiDafi/Critter_app_template.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
 
 2. Open the project folder in your preferred IDE.
 
