@@ -2,6 +2,8 @@
 Hello its Wafi!
 I made this simple template that you an tinker around with so you can be familliar with game making, the code will have comments embeded so that you can see the process of how the logic works!
 
+!!!! Change to the Project Branch to download the project !!!!
+
 # Critter_app_Template
 A standalone virtual pet simulation game built in Java using the Swing framework. Features interactive critter care mechanics (feeding, playing, cleaning, sleeping), state-driven ASCII/image mood changes, sound effects playback, and an extensive, dynamically-rendered runtime Settings menu supporting user-customized features like background change)
 
